@@ -1,3 +1,3 @@
 # NewYork-Cross
 
-https://islam4049.github.io/NewYorkCross/
+https://newyorkcross.netlify.app/
